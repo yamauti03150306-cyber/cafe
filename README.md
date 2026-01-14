@@ -39,6 +39,7 @@ https://yamauchi0701.upper.jp/sinkyu/
 - Adobe Photoshop  
 - Figma  
 - Visual Studio Code  
+- microCMS 
 - ChatGPT など生成AI  
 
 ---
